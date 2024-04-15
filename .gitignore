@@ -1,0 +1,17 @@
+
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+
+.vscode/
+
+.idea/
+
+*.userprefs
+*.sln
+*.suo
+*.csproj
+*.pidb
+
+.DS_Store
