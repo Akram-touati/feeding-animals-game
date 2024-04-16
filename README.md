@@ -1,7 +1,9 @@
 **Feeding animals Game**
+
 Welcome to the Feeding animals Game! In this game, your objective is to throw food to different animals before they reach you. Each animal moves at a different speed, so you'll need to react quickly to keep them at bay. If an animal reaches you before you feed it, it's game over!
 
 **How to Play**
+
 **Controls:**
 
 Use the mouse to aim.
